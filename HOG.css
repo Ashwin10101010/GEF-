@@ -1,0 +1,33 @@
+#img-1
+{
+    height: 200px;
+    width:400px;
+}
+
+#img-2
+{
+    height: 200px;
+    width:400px;
+}
+
+#img-3
+{
+    height: 200px;
+    width:400px;
+}
+
+.pg2
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body
+{
+    background-color: rgb(235, 57, 57);
+}
+
+#btn-2
+{
+    background-color: deepskyblue;
+    color:black
+}
